@@ -1,42 +1,42 @@
 {
-  "url": "https://hoverboard.firebaseapp.com/",
-  "startDate": "2016-09-09T09:00:00+03:00",
-  "endDate": "2016-09-10T19:00:00+03:00",
+  "url": "https://devfest2018-74203.firebaseapp.com/",
+  "startDate": "2018-01-19T09:00:00+03:00",
+  "endDate": "2018-01-20T19:10:00+03:00",
   "analytics": {
-    "prod": "UA-43643469-8",
-    "dev": "UA-43643469-9"
+    "prod": "UA-55386227-2",
+    "dev": "UA-55386227-2"
   },
   "organizer": {
-    "name": "GDG Lviv",
-    "twitter": "gdglviv"
+    "name": "GDG Tarragona",
+    "twitter": "GDGTarragona"
   },
   "webapp": {
-    "shortName": "DevFest",
+    "shortName": "DevFest TGN",
     "themeColor": "#F57C00",
     "backgroundColor": "#F57C00"
   },
   "firebase": {
-    "name": "hoverboard-master",
-    "domain": "hoverboard-master.firebaseapp.com",
-    "database": "https://hoverboard-master.firebaseio.com",
-    "api": "AIzaSyCaSkhtHekxAqXXzzbuNs2s6CpGdhZdta8",
+    "name": "devfest2018-74203",
+    "domain": "devfest2018-74203.firebaseapp.com",
+    "database": "https://devfest2018-74203.firebaseio.com/",
+    "api": "AIzaSyAkUba1uVS9gPLb4vj2joWpphogu1cK-qM",
     "userSessionsPath": "/userSessions",
     "ratingsPath": "/ratings",
     "indexedDbSession": "hoverboard"
   },
   "mailchimp": {
-    "url": "https://gdg.us11.list-manage.com/subscribe/post?u=b7e853a79164ddfdbda3ed77b&amp;id=7993e39fbe",
-    "name": "b_b7e853a79164ddfdbda3ed77b_7993e39fbe"
+    "url": "http://gdgtarragona.us5.list-manage1.com//subscribe/post?u=987d9e301685fd9fc2ee0d91f&amp;id=6d7150eb4d",
+    "name": "b_987d9e301685fd9fc2ee0d91f_6d7150eb4d"
   },
   "dateFormat": {
-    "locale": "en-US",
+    "locale": "es",
     "blog": {"month": "short", "day": "numeric", "year": "numeric"}
   },
-  "hashtag": "dfua",
-  "disqusShortName": "hoverboard-gdg-x",
+  "hashtag": "devfest",
+  "disqusShortName": "DevFest TGN",
   "tweetsSource": "/data/tweets.json",
-  "partnershipProposition": "http://bit.ly/df16-sponsor",
-  "videosSessionsUrl": "https://www.youtube.com/playlist?list=PLt8lEzcLNl31AX3-ONkkWmDOZezu9Cmnv",
+  "partnershipProposition": "https://goo.gl/TYFiZu",
+  "videosSessionsUrl": "https://www.youtube.com/user/GDGTarragona",
   "enableSessionsRating": true,
   "navigation": [
     {
@@ -63,47 +63,46 @@
   "social": [
     {
       "name": "twitter",
-      "nickname": "GDGLviv",
-      "url": "https://twitter.com/gdglviv"
+      "nickname": "GDGTarragona",
+      "url": "https://twitter.com/GDGTarragona"
     },
     {
       "name": "gplus",
-      "nickname": "102444623953913144164",
-      "url": "https://plus.google.com/102444623953913144164"
+      "nickname": "110881000795710392242",
+      "url": "https://plus.google.com/110881000795710392242"
     },
     {
       "name": "facebook",
-      "nickname": "GDGLviv",
-      "url": "https://www.facebook.com/GDGLviv"
+      "nickname": "GDGTarragona",
+      "url": "https://www.facebook.com/GDGTarragona"
     },
     {
-      "name": "linkedin",
-      "nickname": "google-developers-group-lviv",
-      "url": "https://www.linkedin.com/company/google-developers-group-lviv"
+      "name": "link",
+      "nickname": "GDGTarragona",
+      "url": "http://www.gdgtarragona.net"
     }
   ],
   "location": {
-    "apiKey": "",
-    "name": "Pivdennyi Expo Center",
-    "address": "36 Shchyretska St, Lviv, Ukraine",
-    "link": "https://www.facebook.com/expopivdennij",
+    "apiKey": "AIzaSyCh3H1QbOibvLU8BdHKY3PyvvtwaEit9b0",
+    "name": "Fundació URV - Centre de Transferència de Tecnologia i Innovació",
+    "address": "Av. Països Catalans, 18. 43007 Tarragona",
+    "link": "http://www.fundacio.urv.cat/centre_de_transferencia/localitzacio-i-contacte/",
     "pointer": {
-      "latitude": 49.809841,
-      "longitude": 23.972805,
+      "latitude": 41.131086,
+      "longitude":  1.241922,
       "zoom": 15
     },
     "mapCenter": {
-      "latitude": 49.809841,
-      "longitude": 23.982805
+      "latitude": 41.131086,
+      "longitude":  1.241922
     },
     "images": [
       "/images/backgrounds/location_1.jpg",
-      "/images/backgrounds/location_2.jpg",
-      "/images/backgrounds/location_3.jpg"
+      "/images/backgrounds/location_2.jpg"
     ]
   },
   "gallery": {
-    "albumUrl": "https://plus.google.com/events/gallery/cc6tosp4ohkp6qj9pg5jb4g6o3k?sort=1",
+    "albumUrl": "https://photos.app.goo.gl/1QSx4dkDzBsKCAWk1",
     "photos": {
       "big": "/images/backgrounds/2015_1.jpg",
       "small": [
@@ -121,9 +120,9 @@
         "fontColor": "#fff",
         "tabBarColor": "#fff",
         "video": {
-          "title": "GDG DevFest Ukraine 2016",
-          "youtubeId": "TdpbgRgz6eE",
-          "text": "See how it was in 2016"
+          "title": "GDG DevFest Tarragona 2018",
+          "youtubeId": "XvInSW-7i6o",
+          "text": "See other events in our Youtube channel"
         },
         "hideLogo": true,
         "minHeight": "360px"
