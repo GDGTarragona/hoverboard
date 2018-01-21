@@ -1,0 +1,586 @@
+{
+  "partners" : [ {
+    "logos" : [ {
+      "logoUrl" : "../images/logo.svg",
+      "name" : "GDG Tarragona",
+      "url" : "http://www.gdgtarragona.net",
+      "width" : 200
+    }, {
+      "logoUrl" : "../images/logos/tarracodroid.png",
+      "name" : "Tarracodroid",
+      "url" : "http://www.tarracodroid.com"
+    }, {
+      "logoUrl" : "../images/logos/logo_wtm_tgn2.png",
+      "name" : "WTM Tarragona",
+      "url" : "http://wtm.gdgtarragona.net"
+    } ],
+    "title" : "Organization Team"
+  }, {
+    "logos" : [ {
+      "logoUrl" : "../images/logos/logo_lleida.jpeg",
+      "name" : "Google",
+      "url" : "https://www.google.com.ua/intl/en/about/"
+    }, {
+      "logoUrl" : "../images/logos/gdg_bcn.png",
+      "name" : "GDG[x]",
+      "url" : "https://github.com/gdg-x"
+    } ],
+    "title" : "GDG Collaborators"
+  }, {
+    "logos" : [ {
+      "logoUrl" : "../images/logos/logo_deim.jpg",
+      "name" : "DEIM",
+      "url" : "http://deim.urv.cat",
+      "width" : 150
+    }, {
+      "logoUrl" : "../images/logos/google.svg",
+      "name" : "Google",
+      "url" : "https://www.google.com.ua/intl/en/about/"
+    }, {
+      "logoUrl" : "../images/logos/logo_smartcities.png",
+      "name" : "Sm4rt Cities",
+      "url" : "http://www.smart4cities.net"
+    } ],
+    "title" : "Sponsors"
+  }, {
+    "title" : "Other collaborators"
+  } ],
+  "schedule" : [ {
+    "date" : "2018-02-17",
+    "dateReadable" : "February 17",
+    "timeslots" : [ {
+      "endTime" : "9:00",
+      "sessions" : [ [ 132 ] ],
+      "startTime" : "08:30"
+    }, {
+      "endTime" : "9:20",
+      "sessions" : [ [ 136 ] ],
+      "startTime" : "9:00"
+    }, {
+      "endTime" : "10:05",
+      "sessions" : [ [ 102 ] ],
+      "startTime" : "9:25"
+    }, {
+      "endTime" : "10:50",
+      "sessions" : [ [ 103 ] ],
+      "startTime" : "10:10"
+    }, {
+      "endTime" : "11:10",
+      "sessions" : [ [ 134 ] ],
+      "startTime" : "10:50"
+    }, {
+      "endTime" : "11:50",
+      "sessions" : [ [ 104 ] ],
+      "startTime" : "11:10"
+    }, {
+      "endTime" : "12:35",
+      "sessions" : [ [ 105 ] ],
+      "startTime" : "11:55"
+    }, {
+      "endTime" : "13:20",
+      "sessions" : [ [ 106 ] ],
+      "startTime" : "12:40"
+    }, {
+      "endTime" : "14:25",
+      "sessions" : [ [ 133 ] ],
+      "startTime" : "13:25"
+    }, {
+      "endTime" : "15:10",
+      "sessions" : [ [ 107 ] ],
+      "startTime" : "14:30"
+    }, {
+      "endTime" : "15:55",
+      "sessions" : [ [ 108 ] ],
+      "startTime" : "15:15"
+    }, {
+      "endTime" : "16:40",
+      "sessions" : [ [ 109 ] ],
+      "startTime" : "16:00"
+    }, {
+      "endTime" : "17:00",
+      "sessions" : [ [ 134 ] ],
+      "startTime" : "16:40"
+    }, {
+      "endTime" : "17:40",
+      "sessions" : [ [ 110 ] ],
+      "startTime" : "17:00"
+    }, {
+      "endTime" : "18:25",
+      "sessions" : [ [ 111 ] ],
+      "startTime" : "17:45"
+    }, {
+      "endTime" : "18:35",
+      "sessions" : [ [ 138 ] ],
+      "startTime" : "18:25"
+    }, {
+      "endTime" : "19:25",
+      "sessions" : [ [ 137 ] ],
+      "startTime" : "18:35"
+    } ],
+    "tracks" : [ {
+      "title" : "Expo hall"
+    }, {
+      "title" : "Conference hall"
+    }, {
+      "title" : "Workshops hall"
+    } ]
+  } ],
+  "sessions" : {
+    "102" : {
+      "complexity" : "Intermediate",
+      "description" : "Disponible en breve",
+      "id" : 102,
+      "language" : "Cat/Esp",
+      "presentation" : "https://speakerdeck.com/gdgtarragona",
+      "speakers" : [ 1 ],
+      "tags" : [ "Web" ],
+      "title" : "Workpress"
+    },
+    "103" : {
+      "complexity" : "Intermediate",
+      "description" : "Disponible en breve",
+      "id" : 103,
+      "language" : "Esp",
+      "presentation" : "https://speakerdeck.com/gdgtarragona",
+      "speakers" : [ 2 ],
+      "tags" : [ "Security" ],
+      "title" : "La fina línea entre performance y seguridad"
+    },
+    "104" : {
+      "complexity" : "Beginner",
+      "description" : "Flutter, el nuevo framework de desarrollo multiplataforma para móviles de Google; Fucshia, el misterioso nuevo SO del que no hablan pero cuyo código es open source. En esta charla hablaremos del estado de ambos proyectos, que se puede hacer con ellos y que no, que es lo que los une, y teorizaremos a partir de la información disponible cuales son las oportunidades para los desarrolladores.",
+      "id" : 104,
+      "language" : "Cat/Esp",
+      "presentation" : "\"https://speakerdeck.com/gdgtarragona",
+      "speakers" : [ 3 ],
+      "tags" : [ "Android", "Flutter", "Fuchsia" ],
+      "title" : "Flutter: the road to Fuchsia?"
+    },
+    "105" : {
+      "complexity" : "Intermediate",
+      "description" : "Disponible en breve",
+      "id" : 105,
+      "language" : "Esp",
+      "presentation" : "\"https://speakerdeck.com/gdgtarragona",
+      "speakers" : [ 4 ],
+      "tags" : [ "Virtual Reality" ],
+      "title" : "Virtual Reality and Augmented Reality"
+    },
+    "106" : {
+      "complexity" : "Beginner",
+      "description" : "Disponible en breve",
+      "id" : 106,
+      "language" : "Cat/Esp",
+      "presentation" : "\"https://speakerdeck.com/gdgtarragona",
+      "speakers" : [ 5 ],
+      "tags" : [ "Android" ],
+      "title" : "Actions on Google"
+    },
+    "107" : {
+      "complexity" : "Beginner",
+      "description" : "\"¿Has leído algún libro sobre nuestra profesión?\" \"No, es que se quedan obsoletos enseguida.\" ¿Nuestra profesión sólo trata de saber programar en uno u otro lenguaje? ¿De conocer una u otra tecnología? En esta charla reflexionaremos sobre nuestra profesión y cómo poder ser un poquito más felices ;)",
+      "id" : 107,
+      "language" : "Cat/Esp",
+      "speakers" : [ 6 ],
+      "tags" : [ "Craftman" ],
+      "title" : "Software as a craft"
+    },
+    "108" : {
+      "complexity" : "Beginner",
+      "description" : "Andreu es administrador y mentor en el programa GSoC desde hace 6 años y en 7 proyectos diferentes. En su charla explica a los universitarios el programa para que apliquen en próximas ediciones así como muestra anécdotas y experiencias con los cerca de 100 alumnos que ha gestionado.",
+      "id" : 108,
+      "language" : "Cat/Esp",
+      "presentation" : "\"https://speakerdeck.com/gdgtarragona",
+      "speakers" : [ 7 ],
+      "tags" : [ "General" ],
+      "title" : "Google Summer of Code, programa de becas de Google para estudiantes universitarios"
+    },
+    "109" : {
+      "complexity" : "Beginner",
+      "description" : "Disponible en breve",
+      "id" : 109,
+      "language" : "Cat/Esp",
+      "presentation" : "\"https://speakerdeck.com/gdgtarragona",
+      "speakers" : [ 8 ],
+      "tags" : [ "Cloud" ],
+      "title" : "Por confirmar"
+    },
+    "110" : {
+      "complexity" : "Intermediate",
+      "description" : "Disponible en breve",
+      "id" : 110,
+      "language" : "Cat/Esp",
+      "presentation" : "https://speakerdeck.com/gdgtarragona",
+      "speakers" : [ 9 ],
+      "tags" : [ "Android" ],
+      "title" : "Por confirmar"
+    },
+    "111" : {
+      "complexity" : "Intermediate",
+      "description" : "Disponible en breve",
+      "id" : 111,
+      "language" : "Cat/Esp",
+      "presentation" : "https://speakerdeck.com/gdgtarragona",
+      "speakers" : [ 10 ],
+      "tags" : [ "General" ],
+      "title" : "El bitcoin y blockchain"
+    },
+    "132" : {
+      "description" : "Get your badge, coffee, enjoy talking with tech edicts around",
+      "id" : 132,
+      "image" : "/images/backgrounds/registration.jpg",
+      "title" : "Registration & morning Coffee"
+    },
+    "133" : {
+      "description" : "Foooooooood!",
+      "id" : 133,
+      "image" : "/images/backgrounds/lunch.jpg",
+      "title" : "Lunch"
+    },
+    "134" : {
+      "description" : "Coffeeeeeee!",
+      "id" : 134,
+      "image" : "/images/backgrounds/coffee-break.jpg",
+      "title" : "Coffee break"
+    },
+    "135" : {
+      "description" : "Coffeeeeeee!",
+      "id" : 135,
+      "image" : "/images/backgrounds/morning.jpg",
+      "title" : "Morning coffee"
+    },
+    "136" : {
+      "description" : "Official start of the conference. Greetings from the organizers, sponsors and partners.",
+      "id" : 136,
+      "image" : "/images/backgrounds/opening.jpg",
+      "language" : "English",
+      "title" : "GDG DevFest Tarragona 2018 Opening"
+    },
+    "137" : {
+      "description" : "Afterparty is a great time to have some fun and meet new people",
+      "id" : 137,
+      "image" : "/images/backgrounds/party.jpg",
+      "title" : "Afterparty & Networking"
+    },
+    "138" : {
+      "description" : "Make sure you won't miss closing ceremony, all gifts from out sponsors and partners will find their owners during this session.",
+      "id" : 138,
+      "image" : "/images/backgrounds/closing.jpg",
+      "title" : "Conference closing and contest winners announcements"
+    },
+    "139" : {
+      "description" : "",
+      "id" : 139,
+      "language" : "English",
+      "title" : "Keynote"
+    },
+    "140" : {
+      "description" : "TBD",
+      "id" : 140,
+      "language" : "English",
+      "title" : "TBD"
+    }
+  },
+  "speakers" : [ null, {
+    "bio" : "Disponible en breve",
+    "company" : "JDevelopia",
+    "companyLogo" : "",
+    "country" : "Tarragona",
+    "featured" : true,
+    "id" : 1,
+    "name" : "JuanKa Díaz",
+    "photoUrl" : "/images/people/unkown_boy.png",
+    "shortBio" : "Disponible en breve",
+    "socials" : [ null, {
+      "icon" : "twitter",
+      "link" : "https://twitter.com/jdevelopia/",
+      "name" : "Twitter"
+    }, {
+      "icon" : "github",
+      "link" : "https://github.com/juankadiaz/",
+      "name" : "GitHub"
+    } ],
+    "tags" : [ "Web", "Joomla", "Workpress" ],
+    "title" : "--"
+  }, {
+    "bio" : "Disponible en breve",
+    "company" : "--",
+    "companyLogo" : "",
+    "country" : "Barcelona",
+    "featured" : true,
+    "id" : 2,
+    "name" : "Almudena Vivanco",
+    "photoUrl" : "/images/people/unknown_girl.png",
+    "shortBio" : "Disponible en breve",
+    "tags" : [ "Seguridad", "Performance" ],
+    "title" : "Disponible en breve"
+  }, {
+    "badges" : [ null, {
+      "description" : "Google Developers Group Barcelona",
+      "link" : "http://gdgbarcelona.com",
+      "name" : "GDG"
+    } ],
+    "bio" : "Apasionado de las plataformas móviles, actualmente trabaja como desarrollador mobile en Tileo Inc. Anteriormente fue Lead Android Developer en Redbooth Inc, y profesor asociado en la Universidad Autónoma de Barcelona. Participa activamente en las comunidades de desarrolladores, en especial con el GDG Barcelona, donde es organizador desde 2012.",
+    "company" : "--",
+    "companyLogo" : "",
+    "country" : "Barcelona",
+    "featured" : true,
+    "id" : 3,
+    "name" : "Ruben Serrano",
+    "photoUrl" : "/images/people/ruben.jpg",
+    "shortBio" : "Disponible en breve",
+    "socials" : [ null, {
+      "icon" : "twitter",
+      "link" : "http://twitter.com/akelael",
+      "name" : "Twitter"
+    } ],
+    "tags" : [ "Android", "Flutter" ],
+    "title" : "Senior Developer"
+  }, {
+    "bio" : "Disponible en breve",
+    "company" : "--",
+    "companyLogo" : "",
+    "country" : "Zaragoza",
+    "featured" : true,
+    "id" : 4,
+    "name" : "Cynthia Gálvez",
+    "photoUrl" : "/images/people/unknown_girl.png",
+    "shortBio" : "Disponible en breve",
+    "socials" : [ {
+      "icon" : "twitter",
+      "link" : "\"http://twitter.com/icynthia",
+      "name" : "Twitter"
+    } ],
+    "tags" : [ "Virtual Reality", "Augmented Reality" ],
+    "title" : "Software Engineer"
+  }, {
+    "badges" : [ {
+      "description" : "Android Google Developer Expert",
+      "link" : "https://developers.google.com/experts/people/sergi-mart-nez",
+      "name" : "GDE"
+    } ],
+    "bio" : "Disponible en breve",
+    "company" : "--",
+    "companyLogo" : "",
+    "country" : "Barcelona",
+    "featured" : true,
+    "id" : 5,
+    "name" : "Sergi Martinez",
+    "photoUrl" : "/images/people/sergi_martinez.jpeg",
+    "shortBio" : "Disponible en breve",
+    "socials" : [ {
+      "icon" : "twitter",
+      "link" : "http://www.twitter.com/sergiandreplace",
+      "name" : "Twitter"
+    } ],
+    "tags" : [ "Android", "Flutter" ],
+    "title" : "Senior Developer"
+  }, {
+    "bio" : "Mi madre me apuntó a un curso de informática cuando tenía 12 años (el año de los Juegos Olímpicos en Barcelona). El curso lo impartía un Historiador de Arte en su tienda de impresoras. Ahí empezó todo ... :D",
+    "company" : "--",
+    "companyLogo" : "",
+    "country" : "Barcelona",
+    "featured" : true,
+    "id" : 6,
+    "name" : "Raquel M. Carmena",
+    "photoUrl" : "/images/people/unknown_girl.png",
+    "shortBio" : "--",
+    "socials" : [ {
+      "icon" : "twitter",
+      "link" : "https://twitter.com/bberrycarmen",
+      "name" : "Twitter"
+    }, {
+      "icon" : "link",
+      "link" : "https://codurance.com/publications/author/raquel-m%20carmena/",
+      "name" : "Web"
+    } ],
+    "tags" : [ "Craftman" ],
+    "title" : "--"
+  }, {
+    "badges" : [ {
+      "description" : "Google Developers Group Lleida",
+      "link" : "http://gdglleida.com",
+      "name" : "GDG"
+    }, {
+      "description" : "GSoC Mentor",
+      "link" : "http://gdglleida.com",
+      "name" : "GSOC Mentor"
+    } ],
+    "bio" : "Andreu Ibàñez: Andreu es un tecnólogo freelancer con 30 años de experiencia en el sector de las TI. Disfruta innovando constantemente y actualmente se dedica la creación de nuevas tecnologías para áreas tan dispares como clústers de visualización, drones y láseres. Es especialista en el ecosistema de Google, donde es mentor del Google Summer of Code con los proyectos Liquid Galaxy y The Physical Web, y tiene montado una laboratorio único en el mundo para hacer proyectos con las diversas tecnologías de mapas de Google, el Liquid Galaxy LAB. Es fundador y organizador del Google Developers Group GDG Lleida y coorganizador en GDG Spain, ponente nacional e internacional en nuevas tecnologías y experto en el ecosistema de Google. Es ponente internacional autorizado por Google del Proyecto Tango. Es Presidente y Fundador de Lleida Drone, la asociación sobre la tecnología drones creada en el 2011, pionera en toda España y ente de difusión de la tecnología Drone del Clúster Catalonia Smart Dronez de la Generalitat de Catalunya. Además colabora como Advisor en estrategia, marketing y tecnología en varias startups españolas, como TGX, VT-LAB, Rectangular Studios, Remotte Labs, y Subtix Inc",
+    "company" : "GDG Lleida",
+    "companyLogo" : "",
+    "country" : "Lleida",
+    "featured" : true,
+    "id" : 7,
+    "name" : "Andreu Ibañez",
+    "photoUrl" : "/images/people/andreu.png",
+    "shortBio" : "--",
+    "socials" : [ {
+      "icon" : "link",
+      "link" : "http://www.andreuibanez.com",
+      "name" : "Web"
+    }, {
+      "icon" : "twitter",
+      "link" : "https://twitter.com/andreuibanez",
+      "name" : "Twitter"
+    } ],
+    "tags" : [ "Google", "GSoC" ],
+    "title" : ""
+  }, {
+    "badges" : [ null, {
+      "description" : "Google Developers Group",
+      "link" : "http://gdgtarragona.net",
+      "name" : "GDG"
+    } ],
+    "bio" : "Disponible en Breve",
+    "company" : "--",
+    "companyLogo" : "",
+    "country" : "--",
+    "featured" : true,
+    "id" : 8,
+    "name" : "Disponible en Breve",
+    "photoUrl" : "/images/people/unkown_boy.png",
+    "shortBio" : "Disponible en Breve",
+    "socials" : [ {
+      "icon" : "gplus",
+      "link" : "https://plus.google.com/+MateuszHerych",
+      "name" : "Google+"
+    }, {
+      "icon" : "twitter",
+      "link" : "https://twitter.com/mherych",
+      "name" : "Twitter"
+    }, {
+      "icon" : "linkedin",
+      "link" : "https://www.linkedin.com/in/herych",
+      "name" : "LinkedIn"
+    } ],
+    "tags" : [ "Android", "Android", "Design Patterns", "Libraries" ],
+    "title" : "Disponible en Breve"
+  }, {
+    "bio" : "Disponible en Breve",
+    "company" : "--",
+    "companyLogo" : "",
+    "country" : "--",
+    "featured" : false,
+    "id" : 9,
+    "name" : "Por confirmar",
+    "photoUrl" : "/images/people/unkown_boy.png",
+    "shortBio" : "Disponible en Breve",
+    "tags" : [ "Android" ],
+    "title" : "Engineer"
+  }, {
+    "bio" : "Disponible en breve",
+    "company" : "--",
+    "companyLogo" : "",
+    "country" : "Tarragona",
+    "featured" : true,
+    "id" : 10,
+    "name" : "Adrian Moreno",
+    "photoUrl" : "/images/people/unkown_boy.png",
+    "shortBio" : "Disponible en breve",
+    "title" : "Senior Engineer"
+  } ],
+  "team" : [ {
+    "members" : [ {
+      "name" : "Vanessa Galcerà",
+      "photoUrl" : "/images/people/vanessaGalcera.jpg",
+      "socials" : [ {
+        "icon" : "gplus",
+        "link" : "https://plus.google.com/+VanessaGalcera",
+        "name" : "Google+"
+      }, null, {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/vanessagare",
+        "name" : "Twitter"
+      } ],
+      "title" : "WTM Lead & GDG Tarragona Organizer Lead"
+    }, {
+      "name" : "Tomas Gonzalez",
+      "photoUrl" : "/images/people/TomasGiS.jpg",
+      "socials" : [ {
+        "icon" : "gplus",
+        "link" : "https://plus.google.com/+TomasGiS",
+        "name" : "Google+"
+      }, {
+        "icon" : "facebook",
+        "link" : "https://www.facebook.com/TomasGiS",
+        "name" : "Facebook"
+      }, {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/TomasGiS",
+        "name" : "Twitter"
+      }, {
+        "icon" : "github",
+        "link" : "https://github.com/TomasGiS",
+        "name" : "Github"
+      } ],
+      "title" : "GDG Tarragona Organizer Lead"
+    }, {
+      "name" : "Jordi Rodriguez",
+      "photoUrl" : "/images/people/jordick.jpg",
+      "socials" : [ null, {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/jordick",
+        "name" : "Twitter"
+      } ],
+      "title" : "3D Printing, Media and Disseny"
+    }, {
+      "name" : "Anna Lopez",
+      "photoUrl" : "/images/people/annaLopez.jpg",
+      "socials" : [ null, {
+        "icon" : "twitter",
+        "link" : "https://www.twitter.com/viscalabonavida",
+        "name" : "Twitter"
+      } ],
+      "title" : "Social Networks and Logístics"
+    } ],
+    "title" : "Core Team"
+  } ],
+  "tickets" : {
+    "elements" : [ {
+      "currency" : "€",
+      "ends" : "Feb 17",
+      "info" : "Free",
+      "name" : "Community",
+      "price" : 0,
+      "soldOut" : false,
+      "starts" : ""
+    } ],
+    "url" : "https://goo.gl/6PZa6Q"
+  },
+  "videos" : [ {
+    "speakers" : "Vanessa Galcerà",
+    "thumbnail" : "/images/sessions/116.JPG",
+    "title" : "Desenvolupant amb Google des de Tarragona",
+    "youtubeId" : "5gce9Hh4tlA"
+  }, {
+    "speakers" : "Adela Tort",
+    "thumbnail" : "/images/sessions/109.JPG",
+    "title" : "Refactoring: Aprender cuándo y cómo refactorizar",
+    "youtubeId" : "38u_UoF9p7w"
+  }, {
+    "speakers" : "Elisabet Díez",
+    "thumbnail" : "/images/sessions/110.JPG",
+    "title" : "Qué es el diseño gráfico",
+    "youtubeId" : "ulJacu-cWzM"
+  }, {
+    "speakers" : "Study Jams",
+    "thumbnail" : "/images/sessions/102.JPG",
+    "title" : "Study Jams Kick-off",
+    "youtubeId" : "nye92ke0i-c"
+  }, {
+    "speakers" : "Jordi Vaca",
+    "thumbnail" : "/images/sessions/101.JPG",
+    "title" : "Monetización de apps",
+    "youtubeId" : "B7oYCwqkDJA"
+  }, {
+    "thumbnail" : "/images/sessions/103.JPG",
+    "title" : "Women Techmakers 2014",
+    "youtubeId" : "_U3xl9fvxdg"
+  }, {
+    "speakers" : "--",
+    "thumbnail" : "/images/sessions/104.JPG",
+    "title" : "DevFest 2014",
+    "youtubeId" : "XvInSW-7i6o"
+  } ]
+}
